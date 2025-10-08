@@ -1,4 +1,4 @@
-# update_lists-template
+# update_lists
 
 Automated repository list updater for GitHub repositories.
 
